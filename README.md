@@ -20,8 +20,7 @@
 
 📫 How to reach me
 - Mail : <dudnd904@gmail.com>
-- Facebook : https://www.facebook.com/metr0jw
-- Instagram : https://www.instagram.com/laz_y_w00n/
+
 
   
  
