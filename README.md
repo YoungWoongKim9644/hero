@@ -1,5 +1,4 @@
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmetr0jw&count_bg=%238A1601&title_bg=%23212121&icon=csharp.svg&icon_color=%23FFFFFF&title=Who+clicked+metr0jw%3F&edge_flat=false"/></a>
-
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoungWoongKim9644&count_bg=%2379C83D&title_bg=%236E1F1F&icon=riotgames.svg&icon_color=%23E7E7E7&title=who+clicked+Youngwoong%3F&edge_flat=false"/></a>
 <h2>📈 Youngwoong Kim </h2>
  Hi there! I'm Youngwoong, graduated at Electronic - communication from Kwangwoon university in Seoul, Korea.<br>
  I'm studying <b>Web Backend</b>, <b>Network & overall communication system</b>
