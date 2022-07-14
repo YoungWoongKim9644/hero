@@ -16,7 +16,7 @@
 
 🏷️ Stats
 
-| <a href="https://github.com/YoungWoongKim9644"><img align="center" src="https://github-readme-stats.vercel.app/api?username=YongWoongKim9644&count_private=true&show_icons=true&theme=tokyonight" alt="Youngwoong's github stats" /></a> | <a href="https://solved.ac/duddnd904"><img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=duddnd904" alt="Youngwoong's Solved.ac Profile" /></a> | 
+| <a href="https://github.com/YoungWoongKim9644"><img align="center" src="https://github-readme-stats.vercel.app/api?username=YoungWoongKim9644&show_icons=true&theme=cobalt" alt="Youngwoong's github stats" /></a> | <a href="https://solved.ac/duddnd904"><img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=duddnd904" alt="Youngwoong's Solved.ac Profile" /></a> | 
 | ------------- | ------------- |
 
 📫 How to reach me
